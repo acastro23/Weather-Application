@@ -14,10 +14,10 @@ This Weather App is a web application that provides real-time weather informatio
 - OpenWeatherMap API
 
 ## Setup and Installation
-1. Clone the repository to your computer.
+1. Clone this repository to your computer.
 2. You can sign up for a free API key at [OpenWeatherMap](https://openweathermap.org/api).
 3. Replace the `API_KEY_GOES_HERE` variable in the `script.js` file with your own API key.
-4. Open `index.html` in a web browser to run the app.
+4. Open `index.html` in a web browser to run the program.
 5. Enjoy
 
 ## Usage
